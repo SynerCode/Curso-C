@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1753165239 source:f:\programas\codeblocks\pastaprogramas\estruturasemc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

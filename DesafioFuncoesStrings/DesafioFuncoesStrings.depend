@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1753248916 source:f:\programas\codeblocks\pastaprogramas\desafiofuncoesstrings\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<ctype.h>
+

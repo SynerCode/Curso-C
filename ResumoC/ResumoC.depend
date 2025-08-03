@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1752813995 source:f:\programas\codeblocks\pastaprogramas\resumoc\main.c
+	<stdio.h>
+	<stdlib.h>
+

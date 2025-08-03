@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1754024805 source:f:\programas\codeblocks\pastaprogramas\testeusobibliosodll\main.c
+	<stdio.h>
+	<stdlib.h>
+	"testeB.h"
+	<unistd.h>
+
+1753940443 f:\programas\codeblocks\pastaprogramas\testeusobibliosodll\include\testeb.h
+

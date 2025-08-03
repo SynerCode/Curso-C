@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1753507562 source:f:\programas\codeblocks\pastaprogramas\desafiorecursividade\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+

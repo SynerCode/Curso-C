@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1753432306 source:f:\programas\codeblocks\pastaprogramas\recursividadecomc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+

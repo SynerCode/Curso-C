@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1753703074 source:f:\programas\codeblocks\pastaprogramas\funcoesponteirosdesafio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+

@@ -1,0 +1,12 @@
+Nome: rogerio
+Idade: 78
+Media: 5.60
+
+Nome: joana
+Idade: 45
+Media: 7.90
+
+Nome: joao
+Idade: 36
+Media: 8.60
+

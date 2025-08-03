@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1754119718 source:f:\programas\codeblocks\pastaprogramas\sistemadeagendamento\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"agenda.h"
+
+1754120293 source:f:\programas\codeblocks\pastaprogramas\sistemadeagendamento\agenda.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"agenda.h"
+
+1754120044 f:\programas\codeblocks\pastaprogramas\sistemadeagendamento\agenda.h
+

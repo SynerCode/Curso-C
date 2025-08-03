@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1753254917 source:f:\programas\codeblocks\pastaprogramas\modularizacao\operacoes.c
+	"operacoes.h"
+
+1753254335 f:\programas\codeblocks\pastaprogramas\modularizacao\operacoes.h
+
+1753255532 source:f:\programas\codeblocks\pastaprogramas\modularizacao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"operacoes.h"
+

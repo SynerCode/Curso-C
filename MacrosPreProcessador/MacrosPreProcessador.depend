@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1753776347 source:f:\programas\codeblocks\pastaprogramas\macrospreprocessador\teste.c
+	"teste.h"
+
+1753776202 f:\programas\codeblocks\pastaprogramas\macrospreprocessador\teste.h
+
+1753776486 source:f:\programas\codeblocks\pastaprogramas\macrospreprocessador\main.c
+	<stdio.h>
+	<stdlib.h>
+	"teste.h"
+

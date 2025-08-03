@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1752824417 source:f:\programas\codeblocks\pastaprogramas\stringsemc\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1753529127 source:f:\programas\codeblocks\pastaprogramas\gerenciadordememoria\memoria.c
+	<stdio.h>
+	<stdlib.h>
+	"memoria.h"
+
+1753527113 f:\programas\codeblocks\pastaprogramas\gerenciadordememoria\memoria.h
+

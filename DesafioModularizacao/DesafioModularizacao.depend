@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1753258292 source:f:\programas\codeblocks\pastaprogramas\desafiomodularizacao\aluno.c
+	<stdio.h>
+	"aluno.h"
+
+1753260212 f:\programas\codeblocks\pastaprogramas\desafiomodularizacao\aluno.h
+

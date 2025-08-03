@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1753949158 source:f:\programas\codeblocks\pastaprogramas\testeusobibliotecaso\main.c
+	<stdio.h>
+	<stdlib.h>
+	"testeB.h"
+
+1753940443 f:\programas\codeblocks\pastaprogramas\testeusobibliotecaso\include\testeb.h
+
+1753940443 f:\programas\codeblocks\pastaprogramas\testeusobibliotecaso\testeb.h
+

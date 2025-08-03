@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1753417085 source:f:\programas\codeblocks\pastaprogramas\arquivosemc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+

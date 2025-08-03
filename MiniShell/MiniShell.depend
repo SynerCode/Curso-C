@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1754195086 source:f:\programas\codeblocks\pastaprogramas\minishell\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<process.h>
+	<signal.h>
+

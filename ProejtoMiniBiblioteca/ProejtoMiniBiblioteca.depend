@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1753515804 source:f:\programas\codeblocks\pastaprogramas\proejtominibiblioteca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"livro.h"
+
+1753510505 f:\programas\codeblocks\pastaprogramas\proejtominibiblioteca\livro.h
+
+1753515289 source:f:\programas\codeblocks\pastaprogramas\proejtominibiblioteca\livro.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"livro.h"
+
